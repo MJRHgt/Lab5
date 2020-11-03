@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "1iS9WrQnjO+a9gd7MVwISHPw/wSPid8wf/SYZw1TpIKCSqIglcEaHbaNcz3zc0XlD9NV5RYYKnFjE2GHtpz7LA==",
+  "success": true,
+  "projectFilePath": "D:\\Universidad\\segundo ciclo 2020\\ED II\\Lab\\Lab5\\Llaves\\Llaves.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
