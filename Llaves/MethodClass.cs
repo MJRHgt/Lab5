@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace LABREPO_ED2.ClassLab5
+namespace Llaves
 {
     public class MethodClass
     {

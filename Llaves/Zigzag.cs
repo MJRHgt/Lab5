@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using System.IO;
 using System.Text;
 
-namespace LABREPO_ED2.ClassLab5
+namespace Llaves
 {
 
     public class Zigzag

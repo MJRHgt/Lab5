@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace LABREPO_ED2.ClassLab5
+namespace Llaves
 {
     public class RutaEspiral
     {

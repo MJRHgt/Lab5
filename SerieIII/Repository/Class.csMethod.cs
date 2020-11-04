@@ -2,9 +2,11 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using SerieIII.Repository;
 using Llaves;
 
-namespace LABREPO_ED2.Repository
+
+namespace SerieIII.Repository
 {
     public class Method : IMethod
     {
